@@ -43,8 +43,7 @@
 <pre><code class="language-arduino">npm run dev</code></pre>
 <p>For the server-side:</p>
 <pre><code>nodemon index.js</code></pre>
-<p>For the developer-side:</p>
-<pre><code class="language-arduino">npm run dev</code></pre>
+
 - Now open a browser and go to `localhost:5173` and voila!!:fire::fire:
 <h4>Note: Make sure to follow the exact steps mentioned above to avoid any errors or issues.</h4>
 <br>
